@@ -1,7 +1,7 @@
 # LeetCode
-Leetcode with me in java
+*Leetcode with me in java*
 
-Leetcode刷题顺序
+**Leetcode刷题顺序**
 - Array
 - String
 - Math
